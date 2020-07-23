@@ -3,3 +3,7 @@ This is going to be our first add/commit
 ------------------------------------------------
 
 This is the first commit of the new branch TEST
+
+------------------------------------------------
+
+This is a pull request on GH
