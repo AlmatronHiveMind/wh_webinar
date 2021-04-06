@@ -7,3 +7,5 @@ This is the first commit of the new branch TEST
 ------------------------------------------------
 
 This is a pull request on GH
+
+A new edit using GitHub
